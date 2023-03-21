@@ -1,3 +1,3 @@
 # MagazzinoStore
 ---------------------
-Piccolo progetto per la gestionde del magazzino di uno store.
+Piccolo progetto per la gestionde del magazzino di uno store..
